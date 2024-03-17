@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "370606382761",
+    "project_id": "food-order-app-10c51",
+    "storage_bucket": "food-order-app-10c51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370606382761:android:c04b73b704164a0fa453b8",
+        "android_client_info": {
+          "package_name": "com.stophunger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370606382761-oisn8jcegdc9o69bm8f5ogca8lqec6bm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stophunger",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "370606382761-30smsj8ggaldd69uavmju1a18d05jf6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzWLqeyGUmDTR3Juhbi23r3lTtcDUiJAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370606382761-30smsj8ggaldd69uavmju1a18d05jf6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
